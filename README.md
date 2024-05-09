@@ -1,5 +1,5 @@
 # sesion4_info343
-# Regresión Logístiva
+# Regresión Logística
 ## Instrucciones generales
 - En su desarrollo considere el código de ética [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 - Además:
